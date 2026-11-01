@@ -187,3 +187,4 @@ Alerts such as `Trivy: vulnerability CVE-2026-65091 in zlib1g` (rule `100100`) s
 ## Author
 
 **Md. Jamal Uddin**
+SOC / Cybersecurity home lab project
